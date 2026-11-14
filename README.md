@@ -4,9 +4,8 @@ A replacement for the standard hook library in GMOD, built on top of srlion's ho
 
 Optimized and extended by the community — **print (super koders)!**
 
-The 16-argument version is **SLOWER** than the 8-argument version by approximately **~28%**.
-
-The 8-argument version — https://github.com/Xelaq/print-super-hooks-8-arguments
+### The 16-argument version is **SLOWER** than the 8-argument version by approximately **~28%**. ###
+### The 8-argument version — https://github.com/Xelaq/print-super-hooks-8-arguments ###
 
 ## Additional Features ##
 
